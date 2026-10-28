@@ -1,7 +1,7 @@
 cat << 'EOF' > README.md
 # KazeOS (Kaze Linux) 🎌⚡
 
-**KazeOS** (from Japanese 風 [kaze] — Wind) is a custom distribution based on **Arch Linux**, engineered for a fast, fluid, and fully automated experience right out of the box.
+**KazeOS** (from Japanese 風 [kaze] - Wind) is a custom distribution based on **Arch Linux**, engineered for a fast, fluid, and fully automated experience right out of the box.
 
 ## ✨ Core Features
 * **Graphical Installer:** Full integration with the Calamares installer, featuring custom KazeOS branding.
