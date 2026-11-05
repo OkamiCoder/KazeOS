@@ -1,4 +1,4 @@
-# KazeOS — Concept
+# KazeOS - Concept
 
 > "The essentials out of the box, the rest — you control."
 
@@ -9,7 +9,7 @@ maintain its own package repository. Instead, it is an **automation layer for
 installing pure Arch** with a focus on minimalism and tiling window managers (WMs)
 instead of full desktop environments (DEs).
 
-**The sharp angle:** the thinnest Arch installer — kernel + WM + browser, nothing more.
+**The sharp angle:** the thinnest Arch installer - kernel + WM + browser, nothing more.
 
 ## 2. Philosophy
 
@@ -55,9 +55,9 @@ without spending an evening on the wiki and manual setup.
 - `pciutils`, `util-linux` (for lspci/lscpu)
 
 **User packages:**
-- `firefox` — browser
-- `nano`, `micro`, `neovim` — editors
-- `htop`, `btop`, `less` — monitoring/reading
+- `firefox` - browser
+- `nano`, `micro`, `neovim` - editors
+- `htop`, `btop`, `less` - monitoring/reading
 
 **Drivers (autodetected via `lspci`):**
 - GPU: `mesa` + `xf86-video-amdgpu` / `xf86-video-intel` / `nvidia-open` (by vendor)
@@ -83,7 +83,7 @@ without spending an evening on the wiki and manual setup.
 
 ## 7. Branding
 
-- **Name:** KazeOS ("風" — wind).
+- **Name:** KazeOS ("風" - wind).
 - **Style:** dark theme, blue/cyan accents, lightweight, airy.
 - **Logo:** TBD (by Okami).
 - **Versioning:** `YYYY.MM` (e.g., `2026.11`).
@@ -94,10 +94,10 @@ without spending an evening on the wiki and manual setup.
 
 Three independent layers:
 
-1.  **`iso/`** — archiso profile: live system + local offline package repo.
-2.  **`installer/`** — Calamares config: `settings.conf`, branding, scripts
+1.  **`iso/`** - archiso profile: live system + local offline package repo.
+2.  **`installer/`** - Calamares config: `settings.conf`, branding, scripts
     (`detect-gpu.sh`, post-install, Timeshift setup).
-3.  **`dotfiles/<wm>/`** — WM configs, copied to `/etc/skel`.
+3.  **`dotfiles/<wm>/`** - WM configs, copied to `/etc/skel`.
 
 ## 9. Roadmap (MVP)
 
