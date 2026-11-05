@@ -24,4 +24,4 @@ git push origin main
 
 (Soon is all .canvas and .md files, with all about KazeOS🌪️ project)
 (Guys, im want build tty installator :D)
-(Update is comming!!
+(Update is comming!!!
