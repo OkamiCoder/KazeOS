@@ -1,6 +1,6 @@
 # KazeOS - Concept
 
-> "The essentials out of the box, the rest — you control."
+> "The essentials out of the box, the rest - you control."
 
 ## 1. What is KazeOS
 
@@ -13,12 +13,12 @@ instead of full desktop environments (DEs).
 
 ## 2. Philosophy
 
-1.  **Thinness.** In the ISO and the installed system — only the essentials.
+1.  **Thinness.** In the ISO and the installed system - only the essentials.
     No DEs, office suites, games, or "managers for everything".
-2.  **User control.** After installation — standard `pacman -Syu`.
+2.  **User control.** After installation - standard `pacman -Syu`.
     KazeOS does not force updates or maintain its own repo.
 3.  **Automation, not replacement.** We don't patch the kernel or fork packages.
-    We make the first step — installation — convenient.
+    We make the first step - installation - convenient.
 4.  **WM over DE.** The user chooses a window manager, not a desktop environment.
     Configs are ready to use but remain the user's property.
 
