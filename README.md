@@ -23,4 +23,4 @@ git commit -m "docs: translate README to English for international reach"
 git push origin main
 
 (Soon is all .canvas and .md files, with all about KazeOS🌪️ project)
-(Guys, im want build tty installator :p)
+(Guys, im want build tty installator :D)
