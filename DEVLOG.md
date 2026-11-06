@@ -31,7 +31,7 @@
 - Started `DEVLOG.md`.
 
 **Broke / struggled with:**
-- Nothing yet — just planning.
+- Nothing yet - just planning.
 
 **Learned:**
 - That devlog ≠ changelog: one is for me, one is for users.
