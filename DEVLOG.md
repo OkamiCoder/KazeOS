@@ -23,7 +23,7 @@
 
 ---
 
-## 2026-11-06 — Phase 1: Project scaffolding
+## 2026-11-06 - Phase 1: Project scaffolding
 
 **Done:**
 - Finalized `CONCEPT.md`.
