@@ -1,4 +1,4 @@
-# KazeOS — Devlog
+# KazeOS - Devlog
 
 > A log of development progress, failures, and lessons learned.
 > Newest entries on top.
