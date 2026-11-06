@@ -7,7 +7,7 @@
 
 ## Template (copy for each new entry)
 
-### YYYY-MM-DD — Phase N: Short title
+### YYYY-MM-DD - Phase N: Short title
 
 **Done:**
 - What actually works now.
