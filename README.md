@@ -1,4 +1,4 @@
-# KazeOS (Kaze Linuxf
+# KazeOS (Kaze Linuxfыва
 
 **KazeOS** (from Japanese 風 [kaze] - Wind) is a custom distribution based on **Arch Linux**, engineered for a fast, fluid, and fully automated experience right out of the box.
 
