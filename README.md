@@ -12,7 +12,7 @@
 * **Base OS:** Arch Linux
 * **ISO Builder:** Archiso
 * **Installer Framework:** Calamares (C++ / Python)
-* **Configuration & Automation:** Shell / Python / YAML / JSON
+* **Configuration & Automation:** Shell / Python / YAML / JSO
 
 ---
 *Developed with the <3 and assistance of AI agents as part of an advanced CLI and engineering experiment.*
