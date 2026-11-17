@@ -24,3 +24,5 @@ git push origin main
 
 First distro ISO realese only in 2027 year (around the beginning)
 
+Maybe add donations?
+
