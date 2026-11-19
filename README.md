@@ -2,6 +2,8 @@
 
 **KazeOS** (from Japanese 風 [kaze] - Wind) is a custom distribution based on **Arch Linux**, engineered for a fast, fluid, and fully automated experience right out of the box.
 
+KazeOS Web-site: https://okamicoder.github.io/kazeos-site/
+
 ## ✨ Core Features
 * **Graphical Installer:** Full integration with the Сalamares installer, featuring custom KazeOS branding.
 * **Environment Selector (Netinstall):** A dynamic checklist allowing users to choose their preferred Desktop Environments (DE) or Tiling Window Managers (i3wm, Hyprland) during setup.
