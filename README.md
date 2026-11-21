@@ -25,6 +25,6 @@ git commit -m "docs: translate README to English for international reach"
 git push origin main
 
 First distro ISO realese only in 2027 year (around the beginning)
-
+So, i wanna start TikTok account about KazeOS.
 
 
