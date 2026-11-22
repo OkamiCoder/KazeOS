@@ -15,7 +15,7 @@ KazeOS Web-site: https://okamicoder.github.io/kazeos-site/
 * **ISO Builder:** Archiso
 * **Installer Framework:** Calamares (C++ / Python)
 * **Configuration & Automation:** Shell / Python / YAML / JSON
-
+ 
 ---
 *Developed with the <3 and assistance of AI agents as part of an advanced CLI and engineering experiment.*
 EOF
