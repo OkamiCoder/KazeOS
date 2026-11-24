@@ -39,3 +39,5 @@
 **Next:**
 - Copy archiso `releng` profile into `iso/`.
 - Build the first bare ISO and boot it in QEMU.
+
+### First distro ISO realese only in 2027 year (around the beginning)
