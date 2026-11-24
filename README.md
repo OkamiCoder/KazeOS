@@ -20,11 +20,7 @@ KazeOS Web-site: https://okamicoder.github.io/kazeos-site/
 *Developed with the <3 and assistance of AI agents as part of an advanced CLI and engineering experiment.*
 EOF
 
-git add README.md
-git commit -m "docs: translate README to English for international reach"
-git push origin main
 
-First distro ISO realese only in 2027 year (around the beginning)
-So, i wanna start TikTok account about KazeOS.
+
 
 
