@@ -40,4 +40,16 @@
 - Copy archiso `releng` profile into `iso/`.
 - Build the first bare ISO and boot it in QEMU.
 
+## Phase 1 — Isolated Build Environment and Basic UEFI ISO
+
+### Done
+- Set up an isolated build environment within a `podman` container based on the official `archlinux:latest` image (ensuring the CachyOS host does not influence the package base of the distribution being built).
+- Created an idempotent script, `scripts/bootstrap-profile.sh`, which copies the reference `releng` profile from a fresh `archiso` package inside the container and adjusts ownership (`chown`) back to the host user.
+- Configured `iso/profiledef.sh` for KazeOS branding (`iso_name="kazeos"`, `iso_label="KAZEOS_YYMM"`, `iso_version="linux-YYYY.MM"`).
+- Developed a build script, `scripts/build-iso.sh` (utilizing `podman run --rm --privileged` and `mkarchiso`), with the profile mounted in `:ro` (read-only) mode.
+- Created a test script, `scripts/test-iso.sh`, to launch the ISO in `qemu-system-x86_64` (configured with KVM, 4GB of RAM, and UEFI OVMF).
+- Configured `.gitignore` to exclude `out/`, `workdir/`, `*.iso`, `*.qcow2`, and `*.img`.
+- Successfully built the initial vanilla image, `kazeos-linux-2026.11-x86_64.iso` (1.3 GB), and verified that it boots via UEFI into a root shell (confirmed by the presence of `/sys/firmware/efi/efivars`).
+
 !First distro ISO realese only in 2027 year (around the beginning)!
+
